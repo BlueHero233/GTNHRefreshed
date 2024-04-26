@@ -1,0 +1,11 @@
+{
+   "ctm": {
+     "ctm_version": 1,
+     "type": "bwm_strata",
+     "layer": "SOLID",
+     "textures": [
+        "minecraft:blocks/diamond_ore_1",
+        "minecraft:blocks/diamond_ore_2"
+     ]
+   }
+}

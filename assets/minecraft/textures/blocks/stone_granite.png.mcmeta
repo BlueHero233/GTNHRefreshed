@@ -1,0 +1,11 @@
+{
+   "ctm": {
+     "ctm_version": 1,
+     "type": "bwm_strata",
+     "layer": "SOLID",
+     "textures": [
+        "minecraft:blocks/stone_granite_1",
+        "minecraft:blocks/stone_granite_2"
+     ]
+   }
+}
