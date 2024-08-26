@@ -7,4 +7,4 @@ Highly recommend using [Modernity](https://www.curseforge.com/minecraft/texture-
 
 WORK IN PROGRESS, quite a lot of stuff missing atm
 
-Very Broken in 2.6.0, Stable in 2.5.1
+Broken in 2.6.1
