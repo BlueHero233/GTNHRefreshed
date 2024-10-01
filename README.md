@@ -5,6 +5,6 @@ Includes Full 47 Tiles CTM for specific blocks such as Coils, Casings, Etc
 
 Highly recommend using [Modernity](https://www.curseforge.com/minecraft/texture-packs/modernity)
 
-WORK IN PROGRESS, quite a lot of stuff missing atm
+WORK IN PROGRESS, a little stuff missing atm
 
-Broken in 2.6.1
+Sorta Working in 2.6.1
